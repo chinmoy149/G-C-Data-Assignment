@@ -3,7 +3,7 @@
 # Chinmoy Das
 # github.com/chinmoy149
 
-library ("data.table")]
+library ("data.table")
 
 # Load the activity labels
 act_labels <- read.table ("D:/R/JHU/Getting & Cleaning Data/Week 4/Project (UCI HAR Dataset)/activity_labels.txt")[, 2]
